@@ -8,6 +8,9 @@ I love to learn new things and technologies. I have created this repository to t
 # Artificial Intelligence & Machine Learning
 1. [CS50's Introduction to Artificial Intelligence with Python 2020](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
 
+# Computer Science Fundamentals
+1. [Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
+
 # Electronics, IoT & Embedded Systems 
 1. [Beginner Electronics](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 
